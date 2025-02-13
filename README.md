@@ -3,7 +3,7 @@
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
 
-About This Project:
+[About This Project:
 
 -   🎸 Listen to music, play next and previous songs
 -   🔈 Update the volume with a slider
@@ -12,7 +12,7 @@ About This Project:
 -   👨🏼‍💼 Online/Offline status
 -   👀 See what other users are listening to in real-time
 -   📊 Aggregate data for the analytics page
--   🚀 And a lot more...
+-   🚀 And a lot more...](https://github.com/adityashanky/tune-vault.git)
 
 ### Setup .env file in _backend_ folder
 
